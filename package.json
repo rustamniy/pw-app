@@ -9,7 +9,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve"
-  },
+ },
+
   "dependencies": {
     "@angular/animations": "^14.2.12",
     "@angular/cdk": "12.1.0",
